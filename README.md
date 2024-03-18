@@ -6,6 +6,8 @@ This is a central place where we can have all the minutes for our meetings on Di
 
 ### 18th of March 2024 
 
+[Find recording here](18.03.2024.m4a)
+
 - Create a newsletter and send it out to our contacts to retain their interest (Farhanah)
 - Recruitment of admins and marketers (Jo)
 - Create a simple informational website for https://www.palcollective.com:
