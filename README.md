@@ -31,5 +31,5 @@ scratch are also sometimes called, the _bottom-up parts_, to mean just that. (is
 
 ### 24th of March 2024
 
-[Link to Arabic video](./https://palcollective.github.io/meetings/original_video.mp4)  
-[Link to Translated video](./https://palcollective.github.io/meetings/translated_video.mp4)
+[Link to Arabic video](https://palcollective.github.io/meetings/original_video.mp4)  
+[Link to Translated video](https://palcollective.github.io/meetings/translated_video.mp4)
