@@ -28,3 +28,8 @@ This is a central place where we can have all the minutes for our meetings on Di
 [^1]: A _top-down innovation strategy_ in software relies on re-purposing existing software for everything but
 the most unique aspects of our development, for which custom software can be developed. The parts coded from
 scratch are also sometimes called, the _bottom-up parts_, to mean just that. (is this clear?)
+
+### 24th of March 2024
+
+[Link to Arabic video](./https://palcollective.github.io/meetings/original_video.mp4)  
+[Link to Translated video](./https://palcollective.github.io/meetings/translated_video.mp4)
