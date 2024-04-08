@@ -33,3 +33,13 @@ scratch are also sometimes called, the _bottom-up parts_, to mean just that. (is
 
 [Link to Arabic video](https://palcollective.github.io/meetings/original_video.mp4)  
 [Link to Translated video](https://palcollective.github.io/meetings/translated_video.mp4)
+
+### 7th of April 2024
+
+[Find recording here](07.04.2024.mp3)
+
+In this meeting, people shared their experience with 10 days of solidarity and activism using the new humanitarian discord and the facepal/backpal organisation.
+
+The consensus is that:
+- This is the right direction for the collective
+- Many organisational aspects needs to be dealt with, and tools need to be invented to create a "reliable method" for this kind of solidarity
